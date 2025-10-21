@@ -193,5 +193,4 @@ This project was built step-by-step as a learning exercise to understand:
 - Python libraries (pandas, scikit-learn, matplotlib)
 
 ---
-
-Happy Learning! 🎓
+Thank You!
